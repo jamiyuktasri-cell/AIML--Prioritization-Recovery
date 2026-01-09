@@ -1,8 +1,7 @@
 # AIML Models for Prioritization and Recovery Prediction
 
 ## Problem Statement
-The Problem: Logistics Vulnerability , Navigating Unforeseen Disruptions in Global Trade
-(Optimizing Logistics Resilience through Predictive Intelligence)
+Healthcare systems need intelligent methods to prioritize patients and predict recovery outcomes.
 
 ## Solution Overview
 This prototype demonstrates a basic AIML workflow for prioritization and recovery prediction using machine learning models.
